@@ -1,0 +1,17 @@
+import java.util Scanner;
+
+public class Main{
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int temperaturasSensor[][] = new int [3][3];
+        for(int i = 0; i <temperatura.length;i++){
+            System.outt.print("registrar temperaturas de la zona"+i);
+        
+        
+        for(int j = 0; j<temperatura[i].length;i++){
+            System.outt.print("registrar temperaturas de la zona"+j);
+            temperatura[i][j]=sc.nextint();
+        }
+        }
+    }
+}
